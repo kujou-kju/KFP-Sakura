@@ -1,0 +1,19 @@
+{
+    "block.minecraft.birch_log": "Kirschstamm",
+    "block.minecraft.stripped_birch_log": "Entrindeter Kirschstamm",
+    "block.minecraft.birch_planks": "Kirschholzbretter",
+    "block.minecraft.birch_sapling": "Kirschbaumsetzling",
+    "block.minecraft.stripped_birch_wood": "Entrindeter Kirschstamm",
+    "block.minecraft.birch_wood": "Kirschholz",
+    "block.minecraft.birch_leaves": "Kirschlaub",
+    "block.minecraft.birch_slab": "Kirschholzholzstufe",
+    "block.minecraft.birch_pressure_plate": "Kirschholzdruckplatte",
+    "block.minecraft.birch_fence": "Kirschholzzaun",
+    "block.minecraft.birch_trapdoor": "Kirschholzfalltür",
+    "block.minecraft.birch_fence_gate": "Kirschholzzauntor",
+    "block.minecraft.birch_stairs": "Kirschholztreppe",
+    "block.minecraft.birch_button": "Kirschholzknopf",
+    "block.minecraft.birch_door": "Kirschholztür",
+    "block.minecraft.birch_sign": "Kirschholzschild",
+    "item.minecraft.birch_boat": "Kirschholzboot"
+}
