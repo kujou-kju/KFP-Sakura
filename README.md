@@ -1,10 +1,12 @@
-[![](respack.png)]()
+![](respack.png)
 # Sakura Trees and Wood
 [![Discord](https://img.shields.io/badge/Discord-join-blue?style=flat-square)](https://discord.gg/HrsGZ8B9bT)
 
 An Addon for the KFP Pack* which turns birch Trees into Cherry Blossom Trees
 
 > ⚠️ Optifine is recommended to run this pack properly, running the pack without will result in a limited experience. Download it from [here](https://optifine.net/download)
+
+> ⚠️ The Files of this branch contains the lastest changes and may not be final. To get the full experience we recomment downloading a release build instead of downloading the content of this branch directly.
 
 `*` Basically it does work with every other Pack and Vanilla aswell as long as you have Optifine installed but this Pack was created for the [KFP-Pack](https://github.com/KiaraFriedPhoenix/KFP-Pack)
 
