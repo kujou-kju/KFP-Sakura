@@ -1,5 +1,5 @@
 ![](respack.png)
-# Sakura Trees and Wood
+# KFP-Pack: Sakura Trees and Wood
 [![Discord](https://img.shields.io/badge/Discord-join-blue?style=flat-square)](https://discord.gg/HrsGZ8B9bT)
 
 An Addon for the KFP Pack* which turns birch Trees into Cherry Blossom Trees
