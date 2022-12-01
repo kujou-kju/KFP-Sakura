@@ -1,15 +1,14 @@
 # This project has been discontinued because me, kujou doesn't have time continue the project and nobody really wanted to take over it. I transfered this repo back to my personal account and it's now archived (read-only). The KFP GitHub Organization Account is now deleted. If you like to continue this project feel free to fork it.
 ![](respack.png)
-# KFP-Pack: Sakura Trees and Wood
-[![Discord](https://img.shields.io/badge/Discord-join-blue?style=flat-square)](https://discord.gg/HrsGZ8B9bT)
+# Kujou's Sakura Trees and Wood
+### formerly known as the Sakura Trees and Wood Addon Pack for my discontinued KFP-Pack
+[![Discord](https://img.shields.io/badge/Discord-join-blue?style=flat-square)](https://discord.com/kju)
 
-An Addon for the KFP Pack* which turns birch Trees into Cherry Blossom Trees
+A Resource Pack which turns birch Trees into Cherry Blossom Trees
 
 > ⚠️ Optifine is recommended to run this pack properly, running the pack without will result in a limited experience. Download it from [here](https://optifine.net/download)
 
-> ⚠️ The Files of this branch contains the lastest changes and may not be final. To get the full experience we recomment downloading a release build instead of downloading the content of this branch directly.
-
-`*` Basically it does work with every other Pack and Vanilla aswell as long as you have Optifine installed but this Pack was created for the [KFP-Pack](https://github.com/KiaraFriedPhoenix/KFP-Pack)
+> ⚠️ The Files of this branch contains the lastest changes and may not be final. To get the full experience we recomment downloading a release build from CuresForge instead of downloading the content of this branch directly.
 
 ## What this pack changes
 * Recolors* the Birch Leaves and renames them**
