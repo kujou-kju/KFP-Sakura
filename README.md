@@ -1,4 +1,4 @@
-# This project has been discontinued because me, kujou doesn't have time continue the project and nobody really wanted to take over it. I transfered this repo back to my personal account and it's now archived (read-only). The KFP GitHub Organization Account is now deleted. If you like to continue this project feel free to fork it.
+# This project has been renamed and revived as my personal Sakura Trees Pack and is no longer affiliated with the KFP-Pack which is discontined anyway.
 ![](respack.png)
 # Kujou's Sakura Trees and Wood
 ### formerly known as the Sakura Trees and Wood Addon Pack for my discontinued KFP-Pack
