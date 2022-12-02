@@ -1,32 +1,29 @@
-# This project has been renamed and revived as my personal Sakura Trees Pack and is no longer affiliated with the KFP-Pack which is discontined anyway.
 ![](respack.png)
+*Preview Image outdated since it's not longer related to the KFP-Pack - will be changed soon*
 # Kujou's Sakura Trees and Wood
-### formerly known as the Sakura Trees and Wood Addon Pack for my discontinued KFP-Pack
-[![Discord](https://img.shields.io/badge/Discord-join-blue?style=flat-square)](https://discord.com/kju)
+### Resource Pack for Minecraft: Java Edition 1.16 and newer
 
-A Resource Pack which turns birch Trees into Cherry Blossom Trees
+A Resource Pack which turns eighter [Acacia or Birch Trees](README.md#so-what-are-the-birch-and-acacia-variants-now) into Cherry Blossom Trees.
+Former known as the Sakura Trees and Wood Addon for my discontinued KFP-Pack.
 
-> ⚠️ Optifine is recommended to run this pack properly, running the pack without will result in a limited experience. Download it from [here](https://optifine.net/download)
+> ⚠️ [Optifine](https://optifine.net/download) is required to run this pack properly, running the pack without will result in a limited experience.
 
-> ⚠️ The Files of this branch contains the lastest changes and may not be final. To get the full experience we recomment downloading a release build from CuresForge instead of downloading the content of this branch directly.
+## But what exactly does this Pack now?
+* It uses a custom colormap to change the birch or acacia leafes (depends on your Choice - more infos below)
+* It replaces birch logs with acacia ones using a custom model (if you choose the birch variant)
 
-## What this pack changes
-* Recolors* the Birch Leaves and renames them**
-* Recolors Birch Logs and renames them
-* Recolors Birch Wood and most craftable Items
+This Pack doesn't change the Birch-based Items (anymore - as of the remake) since it would change the look of birch made structures which may not everyone wants. This was previously the case.
 
-`*` This Pack uses a Colormap so this Addon doesn't need to overwrite textures so you can use this Pack with every Resource Pack you like.
+## So what are the birch and acacia variants now?
+Since the revival in december 2022 I provide you two versions of the zip files. Back when this Pack was an Addon for the KFP-Pack it changed birch trees and I'm sure that many player (still) uses this pack for that purpose. But since I started a little project with friends I've got the Idea to use acacia instead so thats why there are two variants now.
 
-`**` This Pack does rename the changed Blocks and Items (only german, en-us and en-gb supported rn, othe rlanguages will still show the items as birch ones)
+**Make sure to select the right variant for you for your Minecraft version - especially if you're using the CurseForge Launcher** since it will automatically pick one of the variants if not choosen (but idk which one it will be).
 
-## Release
-You can find the newest Releases and pre-releases [here](https://github.com/KiaraFriedPhoenix/KFP-Sakura/releases/latest)
+## Where can I download it?
+You can find the newest Releases and pre-releases on [CurseForge](https://github.com/KiaraFriedPhoenix/KFP-Sakura/releases/latest)
 
-## Known Issues
-* Sakura Overlays do not work on boats and signs [#3](https://github.com/KiaraFriedPhoenix/KFP-Pack/issues/3)
+## Creators and Contributors
 
-## Creators
-
-kujou - [GitHub](https://github.com/kujxu) • [Twitter](https://twitter.com/KujouKFP)
+kujou - [Twitter](https://twitter.com/kujou_kju)
 
 kisachi5 - [Twitter](https://twitter.com/kisachi5)
