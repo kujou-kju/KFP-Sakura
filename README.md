@@ -3,7 +3,7 @@
 # Kujou's Sakura Trees and Wood
 ### Resource Pack for Minecraft: Java Edition 1.16-1.19
 
-A Resource Pack which turns eighter [Acacia or Birch Trees](README.md#so-what-are-the-birch-and-acacia-variants-now) into Cherry Blossom Trees.
+A Resource Pack which turns eighter [Acacia or Birch Trees](README.md#so-what-are-the-birch-and-acacia-variants-now-planned) into Cherry Blossom Trees.
 Former known as the Sakura Trees and Wood Addon for my discontinued KFP-Pack.
 
 > ⚠️ [Optifine](https://optifine.net/download) is required to run this pack properly, running the pack without will result in a limited experience.
