@@ -1,6 +1,5 @@
 ![](respack.png)
-*Preview Image outdated since it's not longer related to the KFP-Pack - will be changed soon*
-# Kujou's Sakura Trees and Wood
+# Sakura Trees Replace
 ### Resource Pack for Minecraft: Java Edition 1.16-1.19
 
 A Resource Pack which turns eighter [Acacia or Birch Trees](README.md#so-what-are-the-birch-and-acacia-variants-now-planned) into Cherry Blossom Trees.

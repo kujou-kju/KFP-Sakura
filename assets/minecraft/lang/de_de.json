@@ -15,5 +15,6 @@
     "block.minecraft.birch_button": "Kirschholzknopf",
     "block.minecraft.birch_door": "Kirschholztür",
     "block.minecraft.birch_sign": "Kirschholzschild",
-    "item.minecraft.birch_boat": "Kirschholzboot"
+    "item.minecraft.birch_boat": "Kirschholzboot",
+    "kju.pack.about": "Deutscher PLatzhaltertext"
 }

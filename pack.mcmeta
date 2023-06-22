@@ -1,7 +1,9 @@
 {
   "pack": {
-    "pack_format": 6,
-    "description": "§dSakura Trees and Wood§7 v§c1.0§7\n§r§§§9Creators:§c KujouKFP§7, §akisachi5",
-    "desc-ref": "https://minecraft.tools/de/json_text.php?json=%3Cspan%20style%3D%22color%3A%23FF55FF%22%3ESakura%20Trees%20and%20Wood%3C%2Fspan%3E%3Cspan%20style%3D%22color%3A%23AAAAAA%22%3E%26nbsp%3Bv%3C%2Fspan%3E%3Cspan%20style%3D%22color%3A%23FF5555%22%3E0.1%3C%2Fspan%3E%3Cspan%20style%3D%22color%3A%23AAAAAA%22%3E%5Cn%3C%2Fspan%3E%3Cbr%20%2F%3E%3Cspan%20style%3D%22color%3A%235555FF%22%3ECreators%3A%3C%2Fspan%3E%3Cspan%20style%3D%22color%3A%23AAAAAA%22%3E%20%3C%2Fspan%3E%3Cspan%20style%3D%22color%3A%23FF5555%22%3EKujouKFP%3C%2Fspan%3E%3Cspan%20style%3D%22color%3A%23AAAAAA%22%3E%2C%20%3C%2Fspan%3E%3Cspan%20style%3D%22color%3A%2355FF55%22%3Ekisachi5%3C%2Fspan%3E"
+    "pack_format": 13,
+    "description": {
+      "translate": "kju.pack.about",
+      "fallback": "§d§lSakura §6§lTrees §a§lReplace§r§7 v§c2.0§7\n§§by §c§lkujou_kju§r§7 • §6Birch §7Variant"
+    }
   }
 }
